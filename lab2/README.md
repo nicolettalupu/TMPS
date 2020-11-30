@@ -1,4 +1,4 @@
-# Laboratory work nr.1 (Structural Design Patterns)
+# Laboratory work nr.2 (Structural Design Patterns)
 ## Task: create a program in which you will use 5 Structural Design Patterns
 #### During this laboratory work I used 5 Structural Design Pattern:
 - Bridge
